@@ -1,2 +1,3 @@
 # QuickEmulatorsInstall
- 
+
+Very inactive project. 
