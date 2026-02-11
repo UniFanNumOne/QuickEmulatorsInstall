@@ -16,7 +16,7 @@
 #### GIt
 Step 1: Clone repository and cd into the newly created directory
 
-`https://github.com/UniFanNumOne/QuickEmulatorsInstall.git && cd QuickEmulatorsInstall`
+`https://github.com/UniFanNumOne/QuickEmulatorsInstall.git && cd QuickEmulatorsInstall/src`
 
 Step 2: Run script
 
@@ -35,7 +35,7 @@ Step 2: Run script
 * Flycast
 * Duckstation
 * PCSX2
-* RPCS3
+* RPCS3    
 * PPSSPP
 
 *****Artifical Inteligince was not used in the creation of this program. All code & imagery were human made.*****
