@@ -2,6 +2,7 @@
 
 ## Greetings
 
+echo "This script is designed with Fedora in mind. Run at your own risk (nothing will break dw)"
 echo "Welcome to QuickEmulatorsInstall!"
 echo "We do not condone piracy ;)"
 echo "Project developed by Amy Kay (UniFan)"
@@ -12,6 +13,11 @@ echo "https://github.com/unifannumone/quickeumulatorsinstall/"
 echo "Download directory is ~/Emulators"
 mkdir ~/Emulators
 cd ~/Emulators
+
+## Flathub added vvv
+
+echo "Remote-adding remote repository Flathub"
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 
 ## What Will Be Installed
 
