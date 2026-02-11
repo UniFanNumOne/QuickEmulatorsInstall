@@ -20,6 +20,22 @@ Step 1: Clone repository and cd into the newly created directory
 Step 2: Run script
 `./install.sh`
 
+List of Emulators
+* Stella
+* Mednafen
+* BigPEmu
+* Mesen
+* Ares
+* Dolphin
+* mGBA
+* MelonDS
+* Azahar
+* Flycast
+* Duckstation
+* PCSX2
+* RPCS3
+* PPSSPP
+
 *****Artifical Inteligince was not used in the creation of this program. All code & imagery were human made.*****
 
 <picture>
