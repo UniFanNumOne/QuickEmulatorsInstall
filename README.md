@@ -19,6 +19,7 @@ Step 1: Clone repository and cd into the newly created directory
 `https://github.com/UniFanNumOne/QuickEmulatorsInstall.git && cd QuickEmulatorsInstall`
 
 Step 2: Run script
+
 `./install.sh`
 
 ### List of Emulators
